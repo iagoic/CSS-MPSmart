@@ -1,23 +1,27 @@
 table.blueTable {
+  font-family: Roboto;
   border: 1px solid #8BC600;
   background-color: #FCFCFC;
   width: 100%;
   height: 160px;
   text-align: center;
   border-collapse: collapse;
-  font-family: Roboto;
 }
 table.blueTable td, table.blueTable th {
+  font-family: Roboto;
   border: 1px solid #B3C691;
   padding: 4px 4px;
 }
 table.blueTable tbody td {
+  font-family: Roboto;
   font-size: 13px;
 }
 table.blueTable tr:nth-child(even) {
+  font-family: Roboto;
   background: #D5E7B5;
 }
 table.blueTable thead {
+  font-family: Roboto;
   background: #72A300;
   background: -moz-linear-gradient(top, #95ba40 0%, #80ac19 66%, #72A300 100%);
   background: -webkit-linear-gradient(top, #95ba40 0%, #80ac19 66%, #72A300 100%);
@@ -25,6 +29,7 @@ table.blueTable thead {
   border-bottom: 2px solid #3D5700;
 }
 table.blueTable thead th {
+  font-family: Roboto;
   font-size: 15px;
   font-weight: bold;
   color: #FFFFFF;
