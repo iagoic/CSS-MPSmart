@@ -14,7 +14,7 @@ table.blueTable td, table.blueTable th {
 }
 table.blueTable tbody td {
   font-family: Roboto;
-  font-size: 13px;
+  font-size: 12px;
 }
 table.blueTable tr:nth-child(even) {
   font-family: Roboto;
@@ -30,7 +30,7 @@ table.blueTable thead {
 }
 table.blueTable thead th {
   font-family: Roboto;
-  font-size: 15px;
+  font-size: 14px;
   font-weight: bold;
   color: #FFFFFF;
   text-align: center;
