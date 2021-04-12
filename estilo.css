@@ -1,0 +1,59 @@
+.relatorio .logo-smart img{
+    height:80px;
+}
+
+.relatorio .logo-gti img{
+    height:80px;
+}
+
+.relatorio .titulo span{
+   float: right; 
+   margin-top: 50px;
+}
+
+.relatorio .row-header{
+    margin:20px 0;  
+    border-bottom: 2px solid #333;  
+}
+
+.relatorio .row-cabecalho{
+    border: 2px solid #ccc;
+    padding: 15px;
+}
+
+.relatorio h3{
+    font-size:1.25em;
+    margin:20px 0;
+}
+
+.relatorio .input-group-addon{
+    padding:5px 10px;
+}
+
+.relatorio .table-relatorio{
+    margin: 20px 0;
+}
+
+.relatorio .table-relatorio .topo{
+    text-align: center;
+}
+
+.relatorio .label-msg{
+    margin-top: 80px;
+}
+
+fieldset{
+    border:1px solid #ccc;
+    padding:15px 20px;
+    margin:40px 0;
+}
+
+fieldset legend{
+    border:1px solid #333;
+    background-color:#ddd;
+    font-weight:bold;
+    border-radius:10px;
+    width:auto;
+    padding: 5px 10px;
+    font-size:1.0em;
+}
